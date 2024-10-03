@@ -10,6 +10,7 @@ From 2012. Milenko workes at TES Electronic Solutions as an R&D senior design en
 - RFID keyless entry chipset for automotive applications.
 - High speed OFDM (60 GHz) transceiver chipset for professional applications.
 - FMCW radar (120 GHz) transceiver chipset for phased array radar professional applications.
+
 In 2024, he founded Conifer where he works as technical advisor.
 
 Milenko received his B.Sc., M.Sc., and Ph.D. degrees from the School of Electrical Engineering, University of Belgrade, Serbia, in 2010, 2012, and 2019, respectively. He is author and co-author of several scientific papers in international journals and conferences, as well as co-author of granted patent related to mm-wave radar sensor.
