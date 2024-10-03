@@ -4,4 +4,4 @@ plugins:
 title: Dr. Milenko Milicevic
 description: Co-Founder and Technical Director
 show_downloads: "false"
-#logo: "/milenko/img/milenko.jpg"  # Change this to the path of your logo
+logo: "/milenko/assets/img/logo.png"  # Change this to the path of your logo
